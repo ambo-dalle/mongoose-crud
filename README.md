@@ -2,8 +2,11 @@
 
 
 #### Start the Program
+```sh
+$ cd mongoose-crud
 $ npm install
 $ npm start
+```
 
 ## REST API
 
